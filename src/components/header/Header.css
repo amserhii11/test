@@ -1,0 +1,39 @@
+.header-bar {
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #e5e6ea;
+}
+
+.logo-header {
+  width: 80%;
+}
+
+.nav {
+  margin-right: 70px;
+  display: flex;
+  align-items: center;
+}
+
+.nav-item {
+  margin-right: 45px;
+  font-size: 14px;
+  color: black;
+  display: flex;
+  align-items: center;
+}
+
+.nav-after::after {
+  content: '';
+  display: block;
+  margin-left: 35px;
+  width: 1px;
+  height: 53px;
+  background-color: #c4c2c2;
+}
+
+.logo {
+  margin-left: 140px;
+}

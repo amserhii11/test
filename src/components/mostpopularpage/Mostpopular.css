@@ -1,0 +1,49 @@
+.page-name {
+  text-align: center;
+  padding-top: 50px;
+}
+.name-page {
+  font-size: 30px;
+  line-height: 30px;
+  color: #181717;
+  margin-bottom: 30px;
+  font-weight: normal;
+}
+
+.description-page {
+  font-size: 16px;
+  color: #6d6d6d;
+}
+
+.most-popular-products {
+  display: grid;
+  grid-template-columns: 350px 350px 350px;
+  grid-template-rows: 340px 340px;
+  grid-gap: 75px;
+}
+
+.container-products {
+  display: flex;
+  justify-content: center;
+  margin-top: 75px;
+}
+
+.title-card {
+  font-size: 16px;
+  line-height: 30px;
+  color: #8b8b8b;
+  font-weight: 500;
+}
+
+.most-popular-product-page {
+  background-color: #f7f7f7;
+}
+
+.all-products {
+  font-size: 16px;
+  color: #4dadbb;
+  text-decoration: underline;
+  text-align: center;
+  width: 100%;
+  padding: 40px 0px 50px 0px;
+}

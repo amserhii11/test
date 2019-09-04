@@ -1,0 +1,26 @@
+.name-page-slider {
+  font-size: 30px;
+  color: #f7f6f9;
+  padding-top: 70px;
+}
+
+.description-page-slider {
+  font-size: 16px;
+  letter-spacing: 0px;
+  color: #f7f6f9;
+  padding-top: 30px;
+}
+
+.main-slider {
+  background-color: #4dadbb;
+  height: 820px;
+}
+
+.product-card {
+  padding: 15px 0px 20px 11px;
+  background-color: white;
+}
+
+.name-slider {
+  text-align: center;
+}
